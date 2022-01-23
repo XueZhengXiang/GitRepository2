@@ -1,0 +1,13 @@
+package com.example.boot05admin1;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Boot05Admin1Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Boot05Admin1Application.class, args);
+    }
+
+}
